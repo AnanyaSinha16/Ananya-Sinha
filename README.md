@@ -6,9 +6,9 @@
 ---
 
 ## **About Me**  
-- 🌱  I’m currently learning Full Stack Development>  
+- 🌱  I’m currently learning Full Stack Developer.  
 - 📫 **Email:** <ananyasinha1603@gmail.com>  
-- ⚡ **Fun fact:** <I'm convinced my IDE is my soulmate ❤️💻>  
+- ⚡ **Fun fact:** I'm convinced my IDE is my soulmate ❤️💻 
 
 ---
 
