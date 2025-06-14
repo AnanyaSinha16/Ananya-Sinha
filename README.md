@@ -1,7 +1,7 @@
 # Ananya-Sinha
 # 👋 Hi, I'm Ananya Sinha!
 
-< "Full Stack Developer | Java Enthusiast |Tomorrow's tech titan... today's over-caffeinated learner!">
+< "Java Enthusiast |Tomorrow's tech titan... today's over-caffeinated learner!">
 
 ---
 
