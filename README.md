@@ -38,14 +38,12 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AnanyaSinha16&theme=radical&hide_border=true)
 
-## 🌟 Top Contribution
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnanyaSinha16&repo=your-most-contributed-repo&theme=radical)](https://github.com/AnanyaSinha16/your-most-contributed-repo)
 
 ## 🏆 Resume Highlights
 
-- Built **10+ full-stack apps** with MERN/Spring Boot stacks
-- Automated workflows reducing **40% manual processing time**
-- Developed CDN handling **1M+ daily requests** (AWS)
+- Engineered scalable web apps with MERN and Spring Boot across diverse domains.
+- Streamlined data workflows using Python.
+- Built a cloud-native CDN on AWS, optimized to handle  daily requests with reduced latency
 - Created ML-powered dependency resolver with **85% accuracy**
 - Led workshops improving **40% technical competencies** (Intel Club)
