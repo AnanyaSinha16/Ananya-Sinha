@@ -44,6 +44,6 @@
 
 - Engineered scalable web apps with MERN and Spring Boot across diverse domains.
 - Streamlined data workflows using Python.
-- Built a cloud-native CDN on AWS, optimized to handle  daily requests with reduced latency
-- Created ML-powered dependency resolver with **85% accuracy**
-- Led workshops improving **40% technical competencies** (Intel Club) 
+- Built a cloud-native CDN on AWS, optimized to handle  daily requests with reduced latency.
+- Created ML-powered dependency resolver with **85% accuracy**.
+- Led workshops improving **40% technical competencies**. (Intel Club) 
