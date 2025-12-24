@@ -81,13 +81,14 @@ I’m currently sharpening my skills in **Java, Spring Boot, Microservices, and 
 - Conducted **technical workshops**, helping peers grow *(Intel Club)*  
 
 ---
+## 📊 GitHub at a glance
 
-## 📊 GitHub at a glance  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnanyaSinha16&show_icons=true&theme=radical)
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnanyaSinha16&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaSinha16&layout=compact&theme=radical&hide_border=true) |
-|---|---|
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaSinha16&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AnanyaSinha16&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=AnanyaSinha16&theme=radical)
+
 
 ---
 
