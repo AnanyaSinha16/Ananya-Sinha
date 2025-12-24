@@ -81,11 +81,5 @@ I’m currently sharpening my skills in **Java, Spring Boot, Microservices, and 
 - Conducted **technical workshops**, helping peers grow *(Intel Club)*  
 
 ---
-## 📊 GitHub at a glance
-
-<img src="assets/github-stats.png" width="450" />
-
-
----
 
 ⭐ *Focused on backend engineering, continuous learning, and building systems that scale.*
