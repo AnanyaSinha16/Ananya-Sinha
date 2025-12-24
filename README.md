@@ -20,7 +20,6 @@ I’m currently sharpening my skills in **Java, Spring Boot, Microservices, and 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ananya%20Sinha-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-black?style=for-the-badge&logo=vercel)](https://your-portfolio-link.com)
 
-> *(Replace links with your actual LinkedIn & portfolio URLs)*
 
 ---
 
