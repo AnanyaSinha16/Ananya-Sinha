@@ -83,9 +83,14 @@ I’m currently sharpening my skills in **Java, Spring Boot, Microservices, and 
 ---
 ## 📊 GitHub at a glance
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnanyaSinha16&show_icons=true&theme=radical)
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=AnanyaSinha16&show_icons=true&theme=radical" 
+    alt="Ananya Sinha GitHub Stats"
+    width="450"
+  />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaSinha16&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AnanyaSinha16&theme=radical)
 
